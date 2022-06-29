@@ -1,6 +1,6 @@
 # BIT-PLAY
 
-Introduction: A Bit Manipulation based calculator which will perform the arithmetic, logical, bitwise operations
+Introduction: A Bit Manipulation based calculator which will perform the arithmetic and bitwise operations
 on the bits to get output in different number systems.
 
 Tech Stack used: HTML, CSS, JavaScript
